@@ -17,5 +17,9 @@ iii.Your Cart: Users can review the items in their cart, make modifications if n
 iv.Checkout: At checkout, users provide necessary details such as delivery address, contact information, and payment preferences. Upon successful order placement, users receive a unique order number for reference.
 v.Order Confirmation: Users receive a confirmation message along with an order summary, including the total amount and order number. Our backend system processes the order details and stores them in the MongoDB database for future reference.
 
+GitHub Repository: https://github.com/Ayushgc2004/Full-Stack-1
 
-
+Steps to Follow:
+1.Open the repository in any IDE.
+2.Run npm start on terminal.
+3.The respective screen will open in the default browser.
