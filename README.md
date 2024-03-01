@@ -10,7 +10,7 @@ Node.js: A server-side JavaScript runtime environment. Node.js allows developers
 ### Front-End Application
 ![Screenshot (59)](https://github.com/Ayushgc2004/Full-Stack-1/assets/136146665/94ae1a50-2cc2-47ff-bbea-6dd5c63757d2)
 
-# How It Works:
+### How It Works:
 i.Browse Menu: Users can explore our extensive menu featuring a variety of delicious food items, including appetizers, main courses, desserts, and beverages.
 ii.Add to Cart: Upon finding their desired items, users can click on the "Add" button to add them to their cart. The website dynamically updates the cart summary, displaying the total order amount and selected items.
 iii.Your Cart: Users can review the items in their cart, make modifications if needed, and proceed to checkout when ready to place the order.
